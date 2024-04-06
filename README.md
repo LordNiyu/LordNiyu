@@ -59,6 +59,6 @@
 
 Créditos: [Aldair Ramirez](https://github.com/LordNiyu)
 
-Última edición: [Fecha de edición]
+Última edición: 6/4/2024
 
 
