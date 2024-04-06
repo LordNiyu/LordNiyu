@@ -1,6 +1,3 @@
-Aquí tienes una estructura HTML similar a la que proporcionaste, pero adaptada para tu perfil de GitHub:
-
-```html
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=¡Hola%21+Soy+Shourya+%3C3%3B+TN+is+me%21%21%21%3BWelcome+to+my+profile%21" alt="Título">
 </div>
