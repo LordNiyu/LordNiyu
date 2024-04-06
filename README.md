@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=¡Hola!+Soy+Aldair+Ramírez+%3C3%3B+Desarrollador+Frontend+Jr%3B+Bienvenido+a+mi+perfil!" alt="Título">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=¡Hola%21+Soy+Aldair+Ramirez+%3C3%3B+TN+is+me%21%21%21%3BWelcome+to+my+profile%21" alt="Título">
 </div>
 
 <h2 align="center">
@@ -9,24 +9,26 @@
 
 <ul>
   <li>
-    <b>:mortar_board: Estado Actual:</b> Estudiante de Contabilidad y Finanzas, Desarrollador Frontend Jr.
+    <b>:credit_card: Nombre completo:</b> Aldair Ramirez
+    <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
   </li>
-  <li><b>:computer: Especialidad:</b> Desarrollo Frontend, Marketing Digital y Analítica Web</li>
-  <li><b>:round_pushpin: Ubicación:</b> Limón, Limón, Costa Rica</li>
-  <li><b>:muscle: Nivel de Habilidad:</b> Mi habilidad en programación está en constante crecimiento con los proyectos y conocimientos adquiridos.</li>
-  <li><b>:video_game: Intereses:</b> Leer, jugar videojuegos, dormir, viajar, trabajar y el mundo de los negocios.</li>
-  <li><b>:speech_balloon: Frase Personal:</b> "No vivas para impresionar a los demás. Vive para impresionarte a ti mismo."</li>
-  <li><b>:zzz: Dato Curioso:</b> Puedo llegar a dormir todo un día entero.</li>
+  <li><b>:school: Actualmente:</b> Estudiante de contabilidad y finanzas</li>
+  <li><b>:books: Especialidad:</b> Desarrollo Front end, marketing digital y analítica web</li>
+  <li><b>:earth_asia: Ubicación:</b> Limón, Limón, Costa Rica</li>
+  <li><b>:sweat_smile: Nivel en programación:</b> Mi nivel de habilidad de programación crece poco a poco con los conocimientos y proyectos que voy adquiriendo</li>
+  <li><b>:monocle_face: Intereses:</b> Leer, jugar videojuegos, dormir, viajar, trabajar y el mundo de los negocios</li>
+  <li><b>:sunglasses: Cita:</b> "No vivas para impresionar a los demás. Vive para impresionarte a ti mismo."</li>
+  <li><b>:ok_hand: Dato curioso:</b> Soy una persona que puede llegar a dormir todo un día entero</li>
 </ul>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/3ohhwl5Kak1luzcRwk/giphy.gif" width="50px" height="50px">
-  Lenguajes y Herramientas
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">
+  Algunos Lenguajes y Herramientas
 </h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="25"/>
 </div>
@@ -37,19 +39,25 @@
 </h2>
 
 <div align="center">
-  <a href="https://github.com/LordNiyu">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="24px" alt="GitHub">
+  <a href="mailto:tucorreo@gmail.com">
+    <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" width="24px" alt="Correo Electrónico">
   </a>
   <a href="https://www.linkedin.com/in/aldair-ramirez-bb7aba104/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="24px" alt="LinkedIn">
+    <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" width="24px" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/LordNiyu" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" width="24px" alt="GitHub">
   </a>
 </div>
 
 <div align="center">
   :heart_eyes: ¡Gracias por visitar mi perfil! ¡Que tengas un buen día! :wink: <br/>
-  &copy; 2024 Aldair Ramírez
+  &copy; 2023 Aldair Ramirez
 </div>
 
 ---
 
-Créditos: [Aldair Ramírez](https://github.com/LordNiyu)
+Créditos: [Aldair Ramirez](https://github.com/LordNiyu)
+
+Última edición: [Fecha de edición]
+
