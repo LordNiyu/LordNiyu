@@ -39,7 +39,7 @@
 </h2>
 
 <div align="center">
-  <a href="mailto:tucorreo@gmail.com">
+  <a href="mailto:ramirez.aldair2217@gmail.com">
     <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" width="24px" alt="Correo Electrónico">
   </a>
   <a href="https://www.linkedin.com/in/aldair-ramirez-bb7aba104/" target="_blank">
@@ -52,7 +52,7 @@
 
 <div align="center">
   :heart_eyes: ¡Gracias por visitar mi perfil! ¡Que tengas un buen día! :wink: <br/>
-  &copy; 2023 Aldair Ramirez
+  &copy; 2024 Aldair Ramirez
 </div>
 
 ---
@@ -60,4 +60,5 @@
 Créditos: [Aldair Ramirez](https://github.com/LordNiyu)
 
 Última edición: [Fecha de edición]
+
 
